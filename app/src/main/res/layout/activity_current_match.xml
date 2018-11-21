@@ -35,7 +35,7 @@
                     android:layout_width="wrap_content"
                     android:text="Sample Name"
                     android:layout_alignParentEnd="true"
-                    android:textSize="17sp"
+                    android:textSize="19sp"
                     android:layout_marginRight="10sp"
                     android:textStyle="bold"
                     android:textColor="#000"
@@ -87,7 +87,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:text="Sample Name"
-                android:textSize="17sp"
+                android:textSize="19sp"
                 android:textStyle="bold"
                 android:textColor="#000"
                 android:layout_marginLeft="10sp"
