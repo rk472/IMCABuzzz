@@ -12,9 +12,10 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Preveous Matches"
+            android:text="Previous Matches"
             android:textSize="23sp"
             android:textStyle="bold"
+            android:padding="5sp"
             android:layout_marginLeft="2sp"
             android:layout_marginTop="30sp"/>
         <TextView
@@ -25,7 +26,7 @@
             android:onClick="goCurrentMatch"
             android:layout_alignParentEnd="true"
             android:layout_margin="5sp"
-            android:padding="2sp"
+            android:padding="5sp"
             android:textColor="@color/colorPrimary"
             android:textStyle="bold"/>
     </RelativeLayout>

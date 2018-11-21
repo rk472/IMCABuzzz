@@ -18,7 +18,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MatchListActivity" android:theme="@style/Nobar" />
+        <activity android:name=".MatchListActivity" />
         <activity android:name=".CurrentMatchActivity"  android:theme="@style/Nobar"/>
         <activity android:name=".PrevMatchActivity"  android:theme="@style/Nobar"/>
     </application>
